@@ -3,22 +3,22 @@ enable: true
 title: Frequently asked questions
 description: 
 faqItem:
-  - question: Why should my child enrol for KTC Career Exploration Program?
-    answer: The world is changing rapidly and it's our responsibility to send our kids out prepared. At KTC, our misssion is to empower every kid to make an informed career decision. We help kids dabble with multiple career streams in a hands-on fashion, with actual industry experts, using simulations, activities, and role-playing games.    This not ony helps them decide which career to pick, but also prepares them for their dream careers. 
+  - question: Why should my child enrol for KTC Career Exploration Lab?
+    answer: The world is changing rapidly and it's our responsibility to send our children out prepared. At KTC, our mission is to empower every child to make an informed career decision. We help students dabble with multiple career streams in a hands-on fashion, with actual industry experts, using simulations, activities, and role-playing games.    This not ony helps them decide which career to pick, but also prepares them for their dream careers. 
     dataTarget: One
     show: show
 
-  - question: Who should sign up for KTC Career Exploration Program?
-    answer: The KTC Career Exploration Program is ideal for students of grades 8th to 12th. However, anybody, across ages, wanting to explore a different or a new career may find the program useful. 
+  - question: Who should sign up for KTC Career Exploration Lab?
+    answer: The KTC Career Exploration Lab is ideal for students of grades 8th to 12th. However, anybody, across ages, wanting to explore a different or a new career may find the program useful. 
     dataTarget: Two
     show: 
     
-  - question: How many internships are currently available?
-    answer: Currently, we offer internships in computer science engineering and management. But we will soon be launching more internships. If you want us to launch your preferred career option next, let us know here.    
+  - question: How many experienceships are currently available?
+    answer: Currently, we offer experienceships in computer science engineering and marketing. But we will soon be launching more experienceships. If you want us to launch your preferred career option next, let us know.    
     dataTarget: Three
     show:    
     
   - question: How can one sign up?
-    answer: It's simple. Just fill in the lead form (here) with your name, mobile number and email id, and our team will call you within 24 hours and get you onboarded. 
+    answer: It's simple. Just fill in the signup form on this page, and our team will call you within 24 hours and get you onboarded. 
     dataTarget: Four
     show:
