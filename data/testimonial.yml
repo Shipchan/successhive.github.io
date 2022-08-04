@@ -3,13 +3,13 @@ enable: true
 title: Meet Your Mentors
 description: Our programs are run by top industry professionals from across the world who bring their unique experience and insights to help students with their career journeys. 
 comments:
-  - text: Shipra is the Co-Founder and CEO of Know Thy Choice. In past, she has led strategy, marketing and partnerships for several high growth FinTech startups. She has extensive experience teaching and mentoring students.
+  - text: Shipra is the Co-Founder and CEO of Know Thy Choice. In past, she has led strategy, marketing and partnerships for several high-growth FinTech startups. She has extensive experience teaching and mentoring students.
     name: Shipra Chandra
     designation: Entrepreneur | FinTech | IIMK
     social_li_profile : https://www.linkedin.com/in/shiprachandra1/
     image: images/client/author-shipra.png
 
-  - text: Kashish has 10+ years of unqiue experience which spans across the worlds of technology, civil services (IAS) and fine arts. 
+  - text: Kashish has 10+ years of unique experience which spans across the worlds of technology, civil services (IAS) and fine arts. 
     name: Kashish Mittal
     designation: IAS | IIT Delhi | Hindustani Classical Vocalist
     social_li_profile: https://www.linkedin.com/in/kashishmittalias/ 
